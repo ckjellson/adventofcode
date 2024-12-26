@@ -2,6 +2,16 @@
 
 My solutions to advent of code, starting 2023.
 
+## 2024
+
+The chief hstorian was missing, we found him.
+
+### Highlights:
+
+Day 14 | Day 15 | Day 16
+:----------:|:----------:|:----------:
+![](2024/images/14.png)|![](2024/images/15.gif)|![](2024/images/16.png)
+
 ## 2023
 
 Something was wrong with global snow production, we fixed it.

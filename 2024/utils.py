@@ -5,6 +5,28 @@ import typing
 sys.setrecursionlimit(100000)
 
 
+def turn_right(curdir):
+    if curdir == (0, 1):
+        return (1, 0)
+    if curdir == (0, -1):
+        return (-1, 0)
+    if curdir == (1, 0):
+        return (0, -1)
+    if curdir == (-1, 0):
+        return (0, 1)
+
+
+def turn_left(curdir):
+    if curdir == (0, 1):
+        return (-1, 0)
+    if curdir == (0, -1):
+        return (1, 0)
+    if curdir == (1, 0):
+        return (0, 1)
+    if curdir == (-1, 0):
+        return (0, -1)
+
+
 def lmap(func, *iterables):
     return list(map(func, *iterables))
 
