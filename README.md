@@ -10,7 +10,7 @@ The chief hstorian was missing, we found him.
 
 Day 14 | Day 15 | Day 16
 :----------:|:----------:|:----------:
-![](2024/images/14.png)|![](2024/images/15.gif)|![](2024/images/16.png)
+![](2024/images/14.gif)|![](2024/images/15.gif)|![](2024/images/16.png)
 
 ## 2023
 
