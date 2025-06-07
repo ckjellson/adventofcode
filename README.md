@@ -4,7 +4,7 @@ My solutions to advent of code, starting 2023.
 
 ## 2024
 
-The chief hstorian was missing, we found him.
+The chief historian was missing, we found him.
 
 ### Highlights:
 
